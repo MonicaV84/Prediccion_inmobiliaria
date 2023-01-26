@@ -5,7 +5,7 @@ En este proyecto, el objetivo era crear un modelo de machine learning que pudier
 
 
 ##  Random forest
-![](random_forest.png)
+
 
 **Esta técnica permite hacer modelos de clasificación que pueden alcanzar una mejor precisión y estabilidad del modelo**
 ### Ventajas
