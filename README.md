@@ -5,7 +5,7 @@ El primer modelo probado fue el de [random forest](https://scikit-learn.org/stab
 ##  Random forest
 ![](random_forest.png)
 
-**bold text** Esta técnica permite hacer modelos de clasificación que pueden alcanzar una mejor precisión y estabilidad del modelo
+**Esta técnica permite hacer modelos de clasificación que pueden alcanzar una mejor precisión y estabilidad del modelo**
 ### Ventajas
 -Fácil de entender e interpretar
 -Requiere poca preparación de los datos
