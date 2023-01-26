@@ -32,3 +32,13 @@ Un árbol de decisión es un modelo de predicción utilizado en diversos ámbito
 - Es posible validar un modelo utilizando pruebas estadísticas
 - Funciona bien con grandes conjuntos de datos
 
+### *Modelo no supervisado*
+
+## Kmeans
+K-means es un método de agrupamiento, que tiene como objetivo la partición de un conjunto de n observaciones en k grupos en el que cada observación pertenece al grupo cuyo valor medio es más cercano
+
+### Ventajas
+- El efecto de agrupamiento es mejor
+- El principio es simple, la implementación es fácil y la velocidad de convergencia es rápida
+- Hay pocos parámetros para ajustar, y generalmente solo el número de clúster K necesita ser ajustado
+
