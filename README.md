@@ -7,8 +7,8 @@ El primer modelo probado fue el de [random forest](https://scikit-learn.org/stab
 
 **Esta técnica permite hacer modelos de clasificación que pueden alcanzar una mejor precisión y estabilidad del modelo**
 ### Ventajas
--Fácil de entender e interpretar
--Requiere poca preparación de los datos
--Capaz de manejar tanto datos numéricos y categorizados
--Es posible validar un modelo utilizando pruebas estadísticas
--Funciona bien con grandes conjuntos de datos
+- Fácil de entender e interpretar
+- Requiere poca preparación de los datos
+- Capaz de manejar tanto datos numéricos y categorizados
+- Es posible validar un modelo utilizando pruebas estadísticas
+- Funciona bien con grandes conjuntos de datos
